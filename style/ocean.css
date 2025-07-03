@@ -5,3 +5,15 @@ div{
     margin-bottom: 5px;
     background-color: navajowhite;
 }
+h1{
+    text-align: center;
+    display: block;
+    background-color: aquamarine;
+    font-weight: bolder;
+}
+div img{
+    width: 300px;
+    height:300px;
+    
+    display:block;
+}
